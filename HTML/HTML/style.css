@@ -1,0 +1,42 @@
+body{
+	background:#00FFFF;
+}
+
+hgroup{
+font-family:arial;
+color:#FF0000;
+font-size:17px;
+text-align:center;
+	}
+	
+	img{
+	align:center;
+	border:1px solid #000000;
+	border-radius:1px;
+	height:100%;
+	box-shadow:#000 2px 2px 6px;
+	
+		
+	}
+	
+	img:hover{
+		background:#fff;
+	}
+	
+	
+#conteudo1{
+width:500px;
+height:250px;
+float:left;
+background:#9Acd32;
+border:1px solid#000;
+}
+
+.conteudo2{
+width:500px;
+height:250px;
+float:right;
+background:#FF4500;
+border:1px solid#000;
+}
+	
